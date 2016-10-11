@@ -13,7 +13,7 @@ if (true) {
   let foo = 'bar';
 }
 console.log(x);
-
+console.log(a);
 console.log(v);
 function lunch(v) {
   var inside = 1;
