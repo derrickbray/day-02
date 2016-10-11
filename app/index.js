@@ -35,17 +35,17 @@ console.log(crew[8]);
 console.log(crew.length);
 console.log(crew[crew.length - 1]);
 
-let counter = 100;
+// let counter = 100;
 
-while (counter < 102) {
-  console.log('Kill all humans');
+// while (counter < 102) {
+  // console.log('Kill all humans');
 
-  counter = counter + 1;
-}
-for (let x = 1; x < 5; = x += 1) {
-  console.log('shut up and take my money');
-}
+  // counter = counter + 1;
+  // }
+// for (let x = 1; x < 5; = x += 1) {
+  // console.log('shut up and take my money');
+// }
 
 for (let i = 0; i < crew.length = i++){
-
+console.log(crew[i])
 }
